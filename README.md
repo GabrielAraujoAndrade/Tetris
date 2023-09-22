@@ -5,7 +5,7 @@
 
 
 
-![ezgif-4-73960e2a2c](https://github.com/GabrielAraujoAndrade/Tetris/assets/117868071/b26ef7ca-82f6-4c8f-876c-3a55e4553ae3)
+![Gameplay](https://github.com/GabrielAraujoAndrade/Tetris/assets/117868071/b26ef7ca-82f6-4c8f-876c-3a55e4553ae3)
 
 # Descrição:
 
