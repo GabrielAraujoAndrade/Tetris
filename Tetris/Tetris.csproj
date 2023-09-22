@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Figuras\Background.png" />
+    <None Remove="Figuras\Block-Empty.png" />
+    <None Remove="Figuras\Block-I.png" />
+    <None Remove="Figuras\Block-J.png" />
+    <None Remove="Figuras\Block-L.png" />
+    <None Remove="Figuras\Block-O.png" />
+    <None Remove="Figuras\Block-S.png" />
+    <None Remove="Figuras\Block-T.png" />
+    <None Remove="Figuras\Block-Z.png" />
+    <None Remove="Figuras\Icon.ico" />
+    <None Remove="Figuras\TileBlue.png" />
+    <None Remove="Figuras\TileCyan.png" />
+    <None Remove="Figuras\TileEmpty.png" />
+    <None Remove="Figuras\TileGreen.png" />
+    <None Remove="Figuras\TileOrange.png" />
+    <None Remove="Figuras\TilePurple.png" />
+    <None Remove="Figuras\TileRed.png" />
+    <None Remove="Figuras\TileYellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Figuras\Background.png" />
+    <Resource Include="Figuras\Block-Empty.png" />
+    <Resource Include="Figuras\Block-I.png" />
+    <Resource Include="Figuras\Block-J.png" />
+    <Resource Include="Figuras\Block-L.png" />
+    <Resource Include="Figuras\Block-O.png" />
+    <Resource Include="Figuras\Block-S.png" />
+    <Resource Include="Figuras\Block-T.png" />
+    <Resource Include="Figuras\Block-Z.png" />
+    <Resource Include="Figuras\Icon.ico" />
+    <Resource Include="Figuras\TileBlue.png" />
+    <Resource Include="Figuras\TileCyan.png" />
+    <Resource Include="Figuras\TileEmpty.png" />
+    <Resource Include="Figuras\TileGreen.png" />
+    <Resource Include="Figuras\TileOrange.png" />
+    <Resource Include="Figuras\TilePurple.png" />
+    <Resource Include="Figuras\TileRed.png" />
+    <Resource Include="Figuras\TileYellow.png" />
+  </ItemGroup>
+
+</Project>
